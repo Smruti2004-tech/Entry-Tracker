@@ -1,0 +1,31 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    margin : 10% 25% ;
+    text-align: center;
+    padding: 8px;
+    height: 100vh;
+    background-image: url("subwayimg");
+    background-position: 100%;
+    height: auto;
+}
+
+.hero{
+   height: fit-content;
+   background-color : #F1EB90 ;
+   border : 4px solid rgb(26, 22, 22) ;
+   border-radius: 16px;
+   padding: 8px;
+}
+
+button{
+    padding  :  8px ;
+    background-color: rgb(170, 30, 30);
+    color: antiquewhite;
+    font-weight :bold ;
+    width: 200px;
+    border-radius: 8px;
+    margin-top: 8px;
+}
+#save-btn{
+    background-color: green;
+}
